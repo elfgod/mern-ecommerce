@@ -2,9 +2,7 @@
 
 ## Cheatsheet
 
-### `Cheatsheet
-
-### `Cheatsheet
+### `Cheatsheet`
 
 Cheatsheet [Cheatsheet](https://github.com/).
 
@@ -21,3 +19,4 @@ cd mern-ecommerce
 
 // inside frontend folder
 npm i react-bootstrap
+npm i react-router-dom
