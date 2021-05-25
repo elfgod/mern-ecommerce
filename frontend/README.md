@@ -20,3 +20,4 @@ cd mern-ecommerce
 // inside frontend folder
 npm i react-bootstrap
 npm i react-router-dom
+npm i react-router-bootstrap
