@@ -18,12 +18,16 @@ cd mern-ecommerce
 ### Installations frontend
 
 // inside frontend folder
-npm i react-bootstrap
-npm i react-router-dom
-npm i react-router-bootstrap
-npm i axios
+
+- npm i react-bootstrap
+- npm i react-router-dom
+- npm i react-router-bootstrap
+- npm i axios
 
 ### Installations root
 
 // in the root folder
-npm i express
+
+- npm i express
+  npm i -D nodemon
+  npm i -D concurrently
