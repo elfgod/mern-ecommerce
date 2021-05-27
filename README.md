@@ -31,3 +31,6 @@ cd mern-ecommerce
 - npm i express
   npm i -D nodemon
   npm i -D concurrently
+  npm i dotenv
+
+---
