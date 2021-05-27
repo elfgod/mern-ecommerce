@@ -15,9 +15,15 @@ Cheatsheet Cheatsheet Cheatsheet `Cheatsheet` Cheatsheet Cheatsheet Cheatsheet C
 npm create-react-app mern-ecommerce
 cd mern-ecommerce
 
-### Installations
+### Installations frontend
 
 // inside frontend folder
 npm i react-bootstrap
 npm i react-router-dom
 npm i react-router-bootstrap
+npm i axios
+
+### Installations root
+
+// in the root folder
+npm i express
