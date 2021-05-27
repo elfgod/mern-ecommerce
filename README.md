@@ -32,5 +32,6 @@ cd mern-ecommerce
   npm i -D nodemon
   npm i -D concurrently
   npm i dotenv
+  npm i mongoose
 
 ---
