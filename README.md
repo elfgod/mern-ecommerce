@@ -33,5 +33,6 @@ cd mern-ecommerce
   npm i -D concurrently
   npm i dotenv
   npm i mongoose
+  npm i colors
 
 ---
