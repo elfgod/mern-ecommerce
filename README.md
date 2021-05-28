@@ -34,5 +34,6 @@ cd mern-ecommerce
   npm i dotenv
   npm i mongoose
   npm i colors
+  npm i bcryptjs
 
 ---
