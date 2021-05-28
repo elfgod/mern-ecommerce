@@ -52,5 +52,6 @@ cd mern-ecommerce
   npm i mongoose
   npm i colors
   npm i bcryptjs
+  npm i express-async-handler
 
 ---
