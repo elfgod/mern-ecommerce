@@ -40,6 +40,8 @@ cd mern-ecommerce
 - npm i react-router-dom
 - npm i react-router-bootstrap
 - npm i axios
+- npm i redux react-redux redux-thunk
+- npm i redux-devtools-extension
 
 ### Installations root
 
